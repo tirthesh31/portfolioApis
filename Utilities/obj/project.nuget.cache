@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "QtcXj/9x0o4ddsDIIMgN89oPlVsv/pP9pdR2cKlh/76NjqecrgkGAl1bxM6L8pqTPIdASfVV3vxbHmwTSV9XIQ==",
+  "success": true,
+  "projectFilePath": "F:\\portfolio\\EndeavoursAPI\\Utilities\\Utilities.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Tirthesh.Motiwala\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
+    "C:\\Users\\Tirthesh.Motiwala\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
+    "C:\\Users\\Tirthesh.Motiwala\\.nuget\\packages\\microsoft.extensions.primitives\\7.0.0\\microsoft.extensions.primitives.7.0.0.nupkg.sha512",
+    "C:\\Users\\Tirthesh.Motiwala\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512",
+    "C:\\Users\\Tirthesh.Motiwala\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
