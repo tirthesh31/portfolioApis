@@ -1376,11 +1376,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\portfolio\\EndeavoursAPI\\Endeavours.Entities\\Endeavours.Entities.csproj",
+      "projectUniqueName": "F:\\portfolio\\portfolioApis\\Endeavours.Entities\\Endeavours.Entities.csproj",
       "projectName": "Endeavours.Entities",
-      "projectPath": "F:\\portfolio\\EndeavoursAPI\\Endeavours.Entities\\Endeavours.Entities.csproj",
+      "projectPath": "F:\\portfolio\\portfolioApis\\Endeavours.Entities\\Endeavours.Entities.csproj",
       "packagesPath": "C:\\Users\\Tirthesh.Motiwala\\.nuget\\packages\\",
-      "outputPath": "F:\\portfolio\\EndeavoursAPI\\Endeavours.Entities\\obj\\",
+      "outputPath": "F:\\portfolio\\portfolioApis\\Endeavours.Entities\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rGzAVEzaowlzUAUoLMwsdGPka97f3NFhuyzYUceZHFYMhFEP+x4p5wz8oihLH55AGxgwWGNWuJ/YoOL6aG+k7g==",
+  "dgSpecHash": "FdF8oZzC2xiufDbgHt/7kINbVc5S/UxIeuPwM4zXPlwe1oOrFqD0sHN7dOwcRRF8h9vKhSUqu1iSuv39i2Rqfg==",
   "success": true,
-  "projectFilePath": "F:\\portfolio\\EndeavoursAPI\\Endeavours.Entities\\Endeavours.Entities.csproj",
+  "projectFilePath": "F:\\portfolio\\portfolioApis\\Endeavours.Entities\\Endeavours.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Tirthesh.Motiwala\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "C:\\Users\\Tirthesh.Motiwala\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\7.0.0\\microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",

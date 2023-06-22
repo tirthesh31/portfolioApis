@@ -22,3 +22,15 @@ F:\portfolio\EndeavoursAPI\Utilities\obj\Debug\net5.0\Utilities.dll
 F:\portfolio\EndeavoursAPI\Utilities\obj\Debug\net5.0\refint\Utilities.dll
 F:\portfolio\EndeavoursAPI\Utilities\obj\Debug\net5.0\Utilities.pdb
 F:\portfolio\EndeavoursAPI\Utilities\obj\Debug\net5.0\ref\Utilities.dll
+F:\portfolio\portfolioApis\Utilities\bin\Debug\net5.0\Utilities.deps.json
+F:\portfolio\portfolioApis\Utilities\bin\Debug\net5.0\Utilities.dll
+F:\portfolio\portfolioApis\Utilities\bin\Debug\net5.0\Utilities.pdb
+F:\portfolio\portfolioApis\Utilities\obj\Debug\net5.0\Utilities.csproj.AssemblyReference.cache
+F:\portfolio\portfolioApis\Utilities\obj\Debug\net5.0\Utilities.GeneratedMSBuildEditorConfig.editorconfig
+F:\portfolio\portfolioApis\Utilities\obj\Debug\net5.0\Utilities.AssemblyInfoInputs.cache
+F:\portfolio\portfolioApis\Utilities\obj\Debug\net5.0\Utilities.AssemblyInfo.cs
+F:\portfolio\portfolioApis\Utilities\obj\Debug\net5.0\Utilities.csproj.CoreCompileInputs.cache
+F:\portfolio\portfolioApis\Utilities\obj\Debug\net5.0\Utilities.dll
+F:\portfolio\portfolioApis\Utilities\obj\Debug\net5.0\refint\Utilities.dll
+F:\portfolio\portfolioApis\Utilities\obj\Debug\net5.0\Utilities.pdb
+F:\portfolio\portfolioApis\Utilities\obj\Debug\net5.0\ref\Utilities.dll

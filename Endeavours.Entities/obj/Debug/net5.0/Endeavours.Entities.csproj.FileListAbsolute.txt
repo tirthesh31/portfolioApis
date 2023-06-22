@@ -22,3 +22,15 @@ F:\portfolio\EndeavoursAPI\Endeavours.Entities\obj\Debug\net5.0\Endeavours.Entit
 F:\portfolio\EndeavoursAPI\Endeavours.Entities\obj\Debug\net5.0\refint\Endeavours.Entities.dll
 F:\portfolio\EndeavoursAPI\Endeavours.Entities\obj\Debug\net5.0\Endeavours.Entities.pdb
 F:\portfolio\EndeavoursAPI\Endeavours.Entities\obj\Debug\net5.0\ref\Endeavours.Entities.dll
+F:\portfolio\portfolioApis\Endeavours.Entities\bin\Debug\net5.0\Endeavours.Entities.deps.json
+F:\portfolio\portfolioApis\Endeavours.Entities\bin\Debug\net5.0\Endeavours.Entities.dll
+F:\portfolio\portfolioApis\Endeavours.Entities\bin\Debug\net5.0\Endeavours.Entities.pdb
+F:\portfolio\portfolioApis\Endeavours.Entities\obj\Debug\net5.0\Endeavours.Entities.csproj.AssemblyReference.cache
+F:\portfolio\portfolioApis\Endeavours.Entities\obj\Debug\net5.0\Endeavours.Entities.GeneratedMSBuildEditorConfig.editorconfig
+F:\portfolio\portfolioApis\Endeavours.Entities\obj\Debug\net5.0\Endeavours.Entities.AssemblyInfoInputs.cache
+F:\portfolio\portfolioApis\Endeavours.Entities\obj\Debug\net5.0\Endeavours.Entities.AssemblyInfo.cs
+F:\portfolio\portfolioApis\Endeavours.Entities\obj\Debug\net5.0\Endeavours.Entities.csproj.CoreCompileInputs.cache
+F:\portfolio\portfolioApis\Endeavours.Entities\obj\Debug\net5.0\Endeavours.Entities.dll
+F:\portfolio\portfolioApis\Endeavours.Entities\obj\Debug\net5.0\refint\Endeavours.Entities.dll
+F:\portfolio\portfolioApis\Endeavours.Entities\obj\Debug\net5.0\Endeavours.Entities.pdb
+F:\portfolio\portfolioApis\Endeavours.Entities\obj\Debug\net5.0\ref\Endeavours.Entities.dll

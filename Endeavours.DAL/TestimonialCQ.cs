@@ -70,7 +70,7 @@ namespace Endeavours.DAL
         {
             using (SqlConnection connection = new SqlConnection(_ConnectionString))
             {
-                string query = "InsertTestimonils";
+                string query = "InsertTestimonials";
 
                 using (SqlCommand command = new SqlCommand(query, connection))
                 {
